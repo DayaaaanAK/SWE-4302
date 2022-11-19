@@ -1,0 +1,15 @@
+D:\Project\SWE4302_Lab01\obj\Debug\net6.0\SWE4302_Lab01.csproj.AssemblyReference.cache
+D:\Project\SWE4302_Lab01\obj\Debug\net6.0\SWE4302_Lab01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\SWE4302_Lab01\obj\Debug\net6.0\SWE4302_Lab01.AssemblyInfoInputs.cache
+D:\Project\SWE4302_Lab01\obj\Debug\net6.0\SWE4302_Lab01.AssemblyInfo.cs
+D:\Project\SWE4302_Lab01\obj\Debug\net6.0\SWE4302_Lab01.csproj.CoreCompileInputs.cache
+D:\Project\SWE4302_Lab01\bin\Debug\net6.0\SWE4302_Lab01.exe
+D:\Project\SWE4302_Lab01\bin\Debug\net6.0\SWE4302_Lab01.deps.json
+D:\Project\SWE4302_Lab01\bin\Debug\net6.0\SWE4302_Lab01.runtimeconfig.json
+D:\Project\SWE4302_Lab01\bin\Debug\net6.0\SWE4302_Lab01.dll
+D:\Project\SWE4302_Lab01\bin\Debug\net6.0\ref\SWE4302_Lab01.dll
+D:\Project\SWE4302_Lab01\bin\Debug\net6.0\SWE4302_Lab01.pdb
+D:\Project\SWE4302_Lab01\obj\Debug\net6.0\SWE4302_Lab01.dll
+D:\Project\SWE4302_Lab01\obj\Debug\net6.0\ref\SWE4302_Lab01.dll
+D:\Project\SWE4302_Lab01\obj\Debug\net6.0\SWE4302_Lab01.pdb
+D:\Project\SWE4302_Lab01\obj\Debug\net6.0\SWE4302_Lab01.genruntimeconfig.cache
